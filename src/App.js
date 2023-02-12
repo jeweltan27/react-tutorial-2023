@@ -36,10 +36,8 @@ const App = () => {
 
 	return (
 		<div className='container'>
-			Header component is here.
 			<Header />
 
-			Tasks component is here.
 			<Tasks tasks={tasks} />
 		</div>
 	)

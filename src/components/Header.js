@@ -13,7 +13,6 @@ const Header = ({ title }) => {
             {/* <h1 style={headingStyle}>Task Tracker</h1> */}
             <h1>{ title }</h1>
 
-            Button component is here.
             {/* Reusable components with different props */}
             <Button 
                 color='green' 
